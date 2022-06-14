@@ -2,7 +2,7 @@
 <h4 align="left">A avid software engineer from India who loves create, explore and invent</h4>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=preraks116&show_icons=true&locale=en&layout=compact" alt="preraks116" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=preraks116&show_icons=true&locale=en&layout=compact" alt="preraks116" />
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=preraks116&show_icons=true&locale=en" alt="preraks116" />
 
