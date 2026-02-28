@@ -1,6 +1,4 @@
-<h2 align="center">Hi, I'm Prerak Srivastava</h2>
-
-<h3 align="center">I am a 4th year undergraduate student currently studying at IIIT Hyderabad</h3>
+<h2 align="center">Hi, I'm Prerak</h2>
 
 
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=preraks116&show_icons=true&locale=en" alt="preraks116" /></p> -->
